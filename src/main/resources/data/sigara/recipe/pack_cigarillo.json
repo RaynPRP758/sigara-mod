@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:paper",
+    "minecraft:brown_dye"
+  ],
+  "result": {
+    "id": "sigara:pack_cigarillo",
+    "count": 1
+  }
+}

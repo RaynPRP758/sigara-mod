@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:flint"
+  ],
+  "result": {
+    "id": "sigara:matchbox",
+    "count": 1
+  }
+}

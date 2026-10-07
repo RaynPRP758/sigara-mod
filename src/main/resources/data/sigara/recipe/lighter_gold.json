@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gold_ingot",
+    "minecraft:flint",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "sigara:lighter_gold",
+    "count": 1
+  }
+}

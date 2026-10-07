@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:oak_planks",
+    "minecraft:gold_nugget"
+  ],
+  "result": {
+    "id": "sigara:box_cigar_corona",
+    "count": 1
+  }
+}

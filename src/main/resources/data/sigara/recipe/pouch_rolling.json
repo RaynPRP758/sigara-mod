@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:leather",
+    "minecraft:paper",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp"
+  ],
+  "result": {
+    "id": "sigara:pouch_rolling",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "sigara:pack_classic",
+    "sigara:pack_classic",
+    "sigara:pack_classic",
+    "sigara:pack_classic",
+    "sigara:pack_classic",
+    "sigara:pack_classic",
+    "sigara:pack_classic",
+    "sigara:pack_classic",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "sigara:carton_classic",
+    "count": 1
+  }
+}

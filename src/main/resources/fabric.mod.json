@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "sigara",
+  "version": "${version}",
+  "name": "Sigara Modu / Smoke Shop",
+  "description": "Gerçek sigara, puro, paket ve çakmak çeşitleri. Yan etki yok, sadece güzel duman.",
+  "authors": ["You"],
+  "license": "MIT",
+  "icon": "assets/sigara/icon.png",
+  "environment": "*",
+  "entrypoints": { "main": ["com.sigara.SigaraMod"] },
+  "depends": {
+    "fabricloader": ">=0.19.1",
+    "minecraft": ">=26.2-",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

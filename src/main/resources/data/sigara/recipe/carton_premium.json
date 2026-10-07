@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "sigara:pack_premium",
+    "sigara:pack_premium",
+    "sigara:pack_premium",
+    "sigara:pack_premium",
+    "sigara:pack_premium",
+    "sigara:pack_premium",
+    "sigara:pack_premium",
+    "sigara:pack_premium",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "sigara:carton_premium",
+    "count": 1
+  }
+}

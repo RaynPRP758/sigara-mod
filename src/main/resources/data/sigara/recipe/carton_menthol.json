@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "sigara:pack_menthol",
+    "sigara:pack_menthol",
+    "sigara:pack_menthol",
+    "sigara:pack_menthol",
+    "sigara:pack_menthol",
+    "sigara:pack_menthol",
+    "sigara:pack_menthol",
+    "sigara:pack_menthol",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "sigara:carton_menthol",
+    "count": 1
+  }
+}

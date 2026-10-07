@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp"
+  ],
+  "result": {
+    "id": "sigara:pack_king",
+    "count": 1
+  }
+}

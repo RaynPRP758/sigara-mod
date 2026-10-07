@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dark_oak_planks",
+    "minecraft:stick",
+    "minecraft:coal"
+  ],
+  "result": {
+    "id": "sigara:tobacco_pipe",
+    "count": 1
+  }
+}

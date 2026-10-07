@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:iron_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp"
+  ],
+  "result": {
+    "id": "sigara:hookah",
+    "count": 1
+  }
+}

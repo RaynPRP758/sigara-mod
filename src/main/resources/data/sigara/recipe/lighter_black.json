@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:flint",
+    "minecraft:black_dye"
+  ],
+  "result": {
+    "id": "sigara:lighter_black",
+    "count": 1
+  }
+}

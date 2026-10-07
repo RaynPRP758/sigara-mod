@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:blaze_powder",
+    "minecraft:flint",
+    "minecraft:blue_dye"
+  ],
+  "result": {
+    "id": "sigara:lighter_torch",
+    "count": 1
+  }
+}

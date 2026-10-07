@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:dark_oak_planks",
+    "minecraft:coal"
+  ],
+  "result": {
+    "id": "sigara:box_cigar_maduro",
+    "count": 1
+  }
+}

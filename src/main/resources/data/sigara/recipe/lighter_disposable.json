@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_nugget",
+    "minecraft:flint",
+    "minecraft:blue_dye"
+  ],
+  "result": {
+    "id": "sigara:lighter_disposable",
+    "count": 1
+  }
+}
